@@ -1,0 +1,61 @@
+﻿Codigo,Producto,Categoria,Sucursal,Stock,Precio_Unitario,Unidades_Vendidas,Valor_Inventario
+P1001,Laptop Lenovo IdeaPad,Computacion,San Salvador,19,650.0,22,12350.0
+P1002,Mouse inalambrico Logitech,Accesorios,San Salvador,68,18.5,34,1258.0
+P1003,Teclado mecanico Redragon,Accesorios,San Salvador,17,49.99,16,849.83
+P1004,Monitor Samsung 24 pulgadas,Computacion,San Salvador,75,185.0,28,13875.0
+P1005,Audifonos JBL,Audio,San Salvador,74,45.0,55,3330.0
+P1006,Bocina Bluetooth Sony,Audio,San Salvador,66,79.9,50,5273.4
+P1007,Impresora Epson EcoTank,Oficina,San Salvador,60,299.0,17,17940.0
+P1008,Memoria USB Kingston 64GB,Almacenamiento,San Salvador,4,12.75,41,51.0
+P1009,Disco SSD Kingston 1TB,Almacenamiento,San Salvador,14,89.0,9,1246.0
+P1010,Router TP-Link,Redes,San Salvador,40,55.0,54,2200.0
+P1011,Webcam Logitech,Accesorios,San Salvador,16,42.0,30,672.0
+P1012,UPS Forza 1000VA,Energia,San Salvador,5,119.0,54,595.0
+P1013,Laptop Lenovo IdeaPad,Computacion,Santa Ana,66,650.0,45,42900.0
+P1014,Mouse inalambrico Logitech,Accesorios,Santa Ana,44,18.5,15,814.0
+P1015,Teclado mecanico Redragon,Accesorios,Santa Ana,54,49.99,18,2699.46
+P1016,Monitor Samsung 24 pulgadas,Computacion,Santa Ana,48,185.0,24,8880.0
+P1017,Audifonos JBL,Audio,Santa Ana,52,45.0,49,2340.0
+P1018,Bocina Bluetooth Sony,Audio,Santa Ana,69,79.9,42,5513.1
+P1019,Impresora Epson EcoTank,Oficina,Santa Ana,13,299.0,48,3887.0
+P1020,Memoria USB Kingston 64GB,Almacenamiento,Santa Ana,47,12.75,7,599.25
+P1021,Disco SSD Kingston 1TB,Almacenamiento,Santa Ana,75,89.0,36,6675.0
+P1022,Router TP-Link,Redes,Santa Ana,41,55.0,20,2255.0
+P1023,Webcam Logitech,Accesorios,Santa Ana,62,42.0,11,2604.0
+P1024,UPS Forza 1000VA,Energia,Santa Ana,43,119.0,3,5117.0
+P1025,Laptop Lenovo IdeaPad,Computacion,San Miguel,51,650.0,25,33150.0
+P1026,Mouse inalambrico Logitech,Accesorios,San Miguel,63,18.5,29,1165.5
+P1027,Teclado mecanico Redragon,Accesorios,San Miguel,15,49.99,27,749.85
+P1028,Monitor Samsung 24 pulgadas,Computacion,San Miguel,74,185.0,33,13690.0
+P1029,Audifonos JBL,Audio,San Miguel,18,45.0,29,810.0
+P1030,Bocina Bluetooth Sony,Audio,San Miguel,68,79.9,53,5433.2
+P1031,Impresora Epson EcoTank,Oficina,San Miguel,66,299.0,27,19734.0
+P1032,Memoria USB Kingston 64GB,Almacenamiento,San Miguel,71,12.75,18,905.25
+P1033,Disco SSD Kingston 1TB,Almacenamiento,San Miguel,57,89.0,38,5073.0
+P1034,Router TP-Link,Redes,San Miguel,65,55.0,34,3575.0
+P1035,Webcam Logitech,Accesorios,San Miguel,70,42.0,53,2940.0
+P1036,UPS Forza 1000VA,Energia,San Miguel,7,119.0,38,833.0
+P1037,Laptop Lenovo IdeaPad,Computacion,La Libertad,32,650.0,51,20800.0
+P1038,Mouse inalambrico Logitech,Accesorios,La Libertad,20,18.5,54,370.0
+P1039,Teclado mecanico Redragon,Accesorios,La Libertad,10,49.99,47,499.9
+P1040,Monitor Samsung 24 pulgadas,Computacion,La Libertad,70,185.0,44,12950.0
+P1041,Audifonos JBL,Audio,La Libertad,17,45.0,47,765.0
+P1042,Bocina Bluetooth Sony,Audio,La Libertad,58,79.9,32,4634.2
+P1043,Impresora Epson EcoTank,Oficina,La Libertad,22,299.0,32,6578.0
+P1044,Memoria USB Kingston 64GB,Almacenamiento,La Libertad,33,12.75,9,420.75
+P1045,Disco SSD Kingston 1TB,Almacenamiento,La Libertad,62,89.0,45,5518.0
+P1046,Router TP-Link,Redes,La Libertad,64,55.0,47,3520.0
+P1047,Webcam Logitech,Accesorios,La Libertad,73,42.0,18,3066.0
+P1048,UPS Forza 1000VA,Energia,La Libertad,75,119.0,27,8925.0
+P1049,Laptop Lenovo IdeaPad,Computacion,Sonsonate,43,650.0,37,27950.0
+P1050,Mouse inalambrico Logitech,Accesorios,Sonsonate,68,18.5,46,1258.0
+P1051,Teclado mecanico Redragon,Accesorios,Sonsonate,65,49.99,53,3249.35
+P1052,Monitor Samsung 24 pulgadas,Computacion,Sonsonate,55,185.0,29,10175.0
+P1053,Audifonos JBL,Audio,Sonsonate,29,45.0,20,1305.0
+P1054,Bocina Bluetooth Sony,Audio,Sonsonate,38,79.9,2,3036.2
+P1055,Impresora Epson EcoTank,Oficina,Sonsonate,8,299.0,11,2392.0
+P1056,Memoria USB Kingston 64GB,Almacenamiento,Sonsonate,62,12.75,53,790.5
+P1057,Disco SSD Kingston 1TB,Almacenamiento,Sonsonate,70,89.0,33,6230.0
+P1058,Router TP-Link,Redes,Sonsonate,50,55.0,14,2750.0
+P1059,Webcam Logitech,Accesorios,Sonsonate,37,42.0,46,1554.0
+P1060,UPS Forza 1000VA,Energia,Sonsonate,66,119.0,31,7854.0
